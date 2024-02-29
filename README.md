@@ -4,7 +4,7 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lucia-mackova/)
 - 👨‍💻 Currently I am deepening and consolidating my knowledge about JavaScript, NextJS and CSS3 
 
-<h3 align="left">Languages and Tools I am familiar with:</h3>
+<h3 align="left">Languages and Tools I have worked with:</h3>
 <div style="display: flex; align-items: center;">
   <h3>FRONTEND:</h3>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40" />  
