@@ -17,8 +17,8 @@
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   <h3>Other tools:</h3>  
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VisualStudio Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VisualStudio Code" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" width="40" height="40"
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" width="" height="0"
 </div>
